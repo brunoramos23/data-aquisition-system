@@ -1,5 +1,9 @@
 # Sistema Assíncrono de Aquisição de Dados
 
+## Dupla:
+Bruno Ramos Menezes
+Ricardo Nascimento de Oliveira
+
 ## Descrição do Projeto
 
 O objetivo deste projeto é criar um servidor assíncrono que simula um sistema de aquisição de dados de sensores industriais. 
