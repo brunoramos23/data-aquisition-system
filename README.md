@@ -1,8 +1,7 @@
 # Sistema Assíncrono de Aquisição de Dados
 
 Dupla:
-Bruno Ramos Menezes
-Juan Pereira Lobo
+Bruno Ramos Menezes e Juan Pereira Lobo
 
 ## Descrição do Projeto
 
